@@ -6,6 +6,13 @@
   display: inline-block;
   position: relative;
 
+  .profile {
+    max-width: 400px;
+    margin: auto;
+    object-fit: cover;
+    object-position: top;
+  }
+
   &:before {
     @include vendor('pointer-events', 'none');
     background-image: url('../../images/overlay.png');

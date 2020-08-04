@@ -28,6 +28,7 @@ button,
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+  margin: auto;
 
   &:hover {
     background-color: _palette(border-bg);

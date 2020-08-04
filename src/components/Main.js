@@ -40,9 +40,9 @@ const Main = props => {
       >
         <h2 className="major">Intro</h2>
         <span className="image main">
-          <img src={pic01} alt="" />
+          <img className="image profile" src={pic01} alt="" />
         </span>
-        <h3>Who is this guy?</h3>
+        <h3>Who is Blake?</h3>
         <p>
           I'm a full stack developer with over 2 years of experience working
           with a wide range of cutting edge technologies in the event and
