@@ -78,6 +78,7 @@ const Main = props => {
         <p style={{ margin: 0 }}>Technologies Used:</p>
         <ul>
           <li>React</li>
+          <li>Typescript</li>
           <li>MobX</li>
           <li>Styled Components</li>
           <li>Jest</li>
